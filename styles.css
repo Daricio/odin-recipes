@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  font-size: 24px;
+  line-height: 1.4;
+  padding: 0 40px;
+  /*background-color: rgba(255, 235, 205, 0.846);*/
+  color: rgb(58, 56, 56);
+}
+
+h1, h2 {
+  font-family: "Courier New", monospace;
+  text-align: center;
+}
+
+.pages {
+  list-style: none;
+  width: max-content;
+  margin: auto;
+}
+
+.pages a {
+  color: rgb(58, 56, 56);
+  text-decoration: none;;
+}
+
+.pages a:hover {
+    color: rgb(63, 95, 114);
+}
+
+img {
+  display: block;
+  margin: auto;
+}
